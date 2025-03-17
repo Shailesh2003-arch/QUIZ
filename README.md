@@ -42,8 +42,8 @@ A simple interactive quiz application built using **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshots
 
-![Quiz App Screenshot] (images/image.png)
-![Quiz App Screenshot] (images/image2.png)
+![Quiz App Screenshot](images/image.png)
+![Quiz App Screenshot](images/image2.png)
 
 ## 📝 License
 
