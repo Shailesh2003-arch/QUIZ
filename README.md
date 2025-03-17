@@ -21,6 +21,9 @@ A simple interactive quiz application built using **HTML, CSS, and JavaScript**.
 
 ```
 📁 quiz-app
+│── 📁 images
+    │── 📄 image.png
+    │── 📄 image2.png
 │── 📄 index.html         # Main HTML file
 │── 📄 style.css          # Stylesheet
 │── 📄 script.js          # Main JavaScript file
